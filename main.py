@@ -1,4 +1,4 @@
-""" Programa de simulacao de um Pendulo Duplo para o trabalho de FIS-32 """
+""" Programa de simulacao de um Pendulo Duplo para o trabalho de FIS-26 """
 import window_draw
 import pygame
 import sys
