@@ -30,6 +30,6 @@ def draw(system, cvs, width, height, dt):
 
     myfont = pygame.font.SysFont("Arial", 15)
     label = myfont.render("dt = %.3g        "
-                          "Programa Feito para o Projeto de FIS-26" % dt, 1, (255, 255, 255))
+                          "Programa Feito para o Projeto de FIS-32 ITA" % dt, 1, (255, 255, 255))
     cvs.blit(label, (10, 10))
     pygame.display.flip()
